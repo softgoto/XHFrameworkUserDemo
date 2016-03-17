@@ -1,0 +1,6 @@
+framework module XHFramework {
+  umbrella header "XHFramework.h"
+
+  export *
+  module * { export * }
+}
